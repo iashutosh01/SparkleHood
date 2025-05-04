@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sparklehood/static/css/main.c11a2a3b.css",
+    "main.js": "/sparklehood/static/js/main.a4367656.js",
+    "static/js/453.800ec591.chunk.js": "/sparklehood/static/js/453.800ec591.chunk.js",
+    "index.html": "/sparklehood/index.html",
+    "main.c11a2a3b.css.map": "/sparklehood/static/css/main.c11a2a3b.css.map",
+    "main.a4367656.js.map": "/sparklehood/static/js/main.a4367656.js.map",
+    "453.800ec591.chunk.js.map": "/sparklehood/static/js/453.800ec591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c11a2a3b.css",
+    "static/js/main.a4367656.js"
+  ]
+}
